@@ -10,7 +10,7 @@
     {{-- JS --}}
     <script defer src="{{ asset('js/app.js')}}"></script>
 </head>
-<body>
-    <h1>Welcome!</h1>
+<body class="container">
+
 </body>
 </html>
